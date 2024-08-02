@@ -1,11 +1,5 @@
 # Gabriel Coelho
-Me chamo Gabriel Rodrigues Prado Coelho, tenho 20 anos.
-Atualmente trabalho no setor de T.I, como Analista de Sustentação na LTM Fidelidade.
-Sou entusiasta na área de T.I, sempre me atualizando com as novidades, gosto muito sobre as vertentes que essa profissão adquiri.
- 
-E atualmente estou estudando desenvolvimento web, como linguagens de programação, ferramentas de design, bancos de dados.
-Tenho já um conhecimento base na área, porem sempre buscando a evolução.
-Estou em busca de oportunidades e novos desafios como desenvolvedor C#.
+Desenvolvedor .Net com 5 meses de experiência trabalho com o desenvolvimento de correções de bugs de produção com C# .NET, Angular, React e testes end-to-end.
  
  
 ## Conecte-se comigo
