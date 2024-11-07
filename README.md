@@ -1,5 +1,5 @@
 # Gabriel Coelho
-Desenvolvedor .Net com 5 meses de experiência trabalho com o desenvolvimento de correções de bugs de produção com C# .NET, Angular, React e testes end-to-end.
+Desenvolvedor .Net com 9 meses de experiência trabalho com o desenvolvimento de correções de bugs de produção com C# .NET. Desde 2023, atuei em projetos de marketplace para grandes clientes, incluindo Porto Seguro, Vivo Telefônica e Mercedes Benz. Hoje venho atuando para uma grande empresa do setor financeiro.
  
  
 ## Conecte-se comigo
