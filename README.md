@@ -20,5 +20,5 @@ Desenvolvedor .Net com 9 meses de experiência trabalho com o desenvolvimento de
 ## Github Stats
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielPradoDev&theme=transparent&bg_color=000&border_color=0&show_icons=true&icon_color=blueDC&title_color=blue&text_color=FFF)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPradoDev&layout=compact&langs_count=6&theme=tokyonight"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPradoDev&theme=transparent&bg_color=000&border_color=0&show_icons=true&icon_color=blueDC&title_color=blue&text_color=FFF"/>
  
